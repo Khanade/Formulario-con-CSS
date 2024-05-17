@@ -1,0 +1,44 @@
+body{
+    background: url(../imagenes/thumb-1920-805607.jpg);
+	
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+form{
+	margin: auto;
+	width: 520px;
+	border: 5px solid #000000;
+	background: #09041bd2;
+    padding: 20px;
+    color: aliceblue;
+}
+textarea{
+    min-width: 100%;
+    min-height: 100%;
+	max-height: 100px;
+	max-width: 200px;
+	background: #2706065b;
+	color: aliceblue;
+    
+}
+form input{
+	width: 100%;
+	background:#2706065b ;
+	color: white;
+}
+#boton:hover{
+	background: #000000;
+	color: rgb(153, 124, 124);
+}
+
+div h1{
+	color: white;
+	border-bottom-style: dashed;
+}
+select{
+	width: 100%;
+}
+
+.wrap{
+	width: 90%;
+}
